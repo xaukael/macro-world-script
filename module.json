@@ -1,1 +1,13 @@
-
+{
+    "name": "world-script-macro",
+    "title": "World Script Macro",
+    "description": "Runs any macro named World Script on canvasInit",
+    "author": "Allen",
+    "version": "0.0.1",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "esmodules": ["/module.js"],
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
