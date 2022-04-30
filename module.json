@@ -2,12 +2,12 @@
     "name": "world-script-macro",
     "title": "World Script Macro",
     "description": "Runs any macro named World Script on canvasInit",
-    "author": "Allen",
-    "version": "0.0.1",
+    "author": "Xaukael",
+    "version": "1.0.0",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "esmodules": ["/module.js"],
-    "url": "",
-    "manifest": "",
-    "download": ""
+    "url": "https://github.com/xaukael/macro-world-script",
+    "manifest": "https://raw.githubusercontent.com/xaukael/macro-world-script/main/module.json",
+    "download": "https://raw.githubusercontent.com/xaukael/macro-world-script/main/world-script-macro.zip"
 }
