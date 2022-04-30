@@ -8,6 +8,6 @@
     "compatibleCoreVersion": "9",
     "esmodules": ["/module.js"],
     "url": "https://github.com/xaukael/macro-world-script",
-    "manifest": "https://raw.githubusercontent.com/xaukael/macro-world-script/main/module.json",
-    "download": "https://raw.githubusercontent.com/xaukael/macro-world-script/main/world-script-macro.zip"
+    "manifest": "https://github.com/xaukael/macro-world-script/raw/main/module.json",
+    "download": "https://github.com/xaukael/macro-world-script/raw/main/world-script-macro.zip"
 }
